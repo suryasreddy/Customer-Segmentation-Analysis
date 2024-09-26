@@ -25,4 +25,8 @@ Initially, three columns—`Name`, `Surname`, and `Merchant Name`—were removed
 The `Birthdate` column was transformed into an `Age` column. This was done by calculating each customer’s age based on the current date and their birthdate. The following formula was applied in Excel to extract the year of birth and calculate the age:
 
 ```excel
-=DATEDIF(C2, TODAY(), "Y")
+=DATEDIF(C2, TODAY(), "Y")```
+
+### Birthdate to Age Transformation
+
+
