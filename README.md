@@ -32,7 +32,7 @@ The `Birthdate` column was transformed into an `Age` column. This was done by ca
 For improved readability and clarity, the Date column was renamed to Transaction Date. This change helps clarify the type of information this field contains and ensures consistency when performing time-based analyses, such as calculating transaction frequency or identifying trends over time.
 
 ## Missing Values:
-No missing values were identified during the cleaning process, so no imputation or further adjustments were necessary. The cleaned dataset was ready for the next stage of exploratory data analysis (EDA) and customer segmentation.
+No missing values were identified during the cleaning process, so no imputation or further adjustments were necessary. The only empty cells in the dataset were located in the Gender column with a small portion of them being blank. To deal with this I named every NULL cell "Other" for the purposes of preserving the data. The cleaned dataset was ready for the next stage of exploratory data analysis (EDA) and customer segmentation.
 **Note:** The data file provided in the repository is the cleaned version of the dataset, which has undergone the above transformations and adjustments. It does not include the original raw data.
 
 
