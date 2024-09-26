@@ -25,8 +25,15 @@ Initially, three columns—`Name`, `Surname`, and `Merchant Name`—were removed
 The `Birthdate` column was transformed into an `Age` column. This was done by calculating each customer’s age based on the current date and their birthdate. The following formula was applied in Excel to extract the year of birth and calculate the age:
 
 ```excel
-=DATEDIF(C2, TODAY(), "Y")```
+=DATEDIF(C2, TODAY(), "Y")
+```
 
-### Birthdate to Age Transformation
+### Date Column Renaming
+For improved readability and clarity, the Date column was renamed to Transaction Date. This change helps clarify the type of information this field contains and ensures consistency when performing time-based analyses, such as calculating transaction frequency or identifying trends over time.
+
+## Missing Values:
+No missing values were identified during the cleaning process, so no imputation or further adjustments were necessary. The cleaned dataset was ready for the next stage of exploratory data analysis (EDA) and customer segmentation.
+**Note:** The data file provided in the repository is the cleaned version of the dataset, which has undergone the above transformations and adjustments. It does not include the original raw data.
+
 
 
