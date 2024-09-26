@@ -36,7 +36,7 @@ No missing values were identified during the cleaning process, so no imputation 
 **Note:** The customer_data.csv file provided in the repository is the cleaned version of the dataset, which has undergone the above transformations and adjustments. It does not include the original raw data.
 
 ## Dataset Overview
-The [dataset](https://www.kaggle.com/datasets/bkcoban/customer-transactions)) we will be using for customer segmentation is derived from retail transaction records, which provide insights into both customer demographics and purchasing behavior. This data is crucial for understanding customer patterns and segmenting them based on their shopping habits. By analyzing these behaviors, we can uncover actionable insights that can help businesses improve marketing strategies, customer retention, and personalized recommendations.
+The [dataset](https://www.kaggle.com/datasets/bkcoban/customer-transactions) we will be using for customer segmentation is derived from retail transaction records, which provide insights into both customer demographics and purchasing behavior. This data is crucial for understanding customer patterns and segmenting them based on their shopping habits. By analyzing these behaviors, we can uncover actionable insights that can help businesses improve marketing strategies, customer retention, and personalized recommendations.
 
 ### Fields Included
 - **Customer ID**: The unique identifier for each customer. This field is essential for tracking individual customers across multiple transactions and linking demographic data to purchasing behavior.
@@ -46,4 +46,12 @@ The [dataset](https://www.kaggle.com/datasets/bkcoban/customer-transactions)) we
 - **Date**: The date of the transaction. By analyzing transaction dates, we can identify purchasing trends over time, such as frequency of purchases, seasonal patterns, and loyalty.
 - **Category**: The publication date of the video. This information is useful for understanding trends over time and the lifecycle of video popularity.
 
+### Fields Not Used
+- **Name and Surname**: These fields are included in the dataset but will not be used for analysis, as they are not relevant for customer segmentation.
+- **Merchant Name**: While this field tracks where transactions occurred, it will not be used in this analysis, as the focus is on customer behavior rather than specific merchant relationships.
+
+### Objective
+The objective of analyzing these fields is to segment customers based on both demographic factors (such as age and gender) and their purchasing behaviors (such as spending patterns and product preferences). By doing so, we can help businesses tailor their marketing efforts to specific customer groups, offer personalized product recommendations, and increase customer engagement and satisfaction. The segmentation will enable a more precise understanding of customer behavior, empowering businesses to implement data-driven strategies that align with different customer needs and preferences.
+
+## Data Analysis
 
