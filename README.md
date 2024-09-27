@@ -92,6 +92,25 @@ Gender Comparison: Both genders display similar spending patterns across age gro
 Spending habits are consistent across age groups, suggesting uniform purchasing power and behavior from ages 18 to 65+.
 Minor gender differences in spending imply that gender-specific marketing might not be as critical as age-inclusive strategies. These findings support marketing initiatives that target a broad demographic spectrum without heavy emphasis on age or gender distinctions.
 
+### 3. Which product categories are the most popular, and how do they vary by customer demographics?
+
+#### Objective
+Determine which product categories (e.g., electronics, apparel, groceries) are purchased most frequently and whether certain age groups or genders prefer specific categories.
+#### Why?
+This insight helps in refining product offerings and targeted campaigns based on customer preferences.
+
+### Data Visualization
+![image](https://github.com/user-attachments/assets/24d44bbd-1fe5-404b-9fb9-9c06d166c73a)
+
+<img src="(https://github.com/user-attachments/assets/24d44bbd-1fe5-404b-9fb9-9c06d166c73a)" width="600">
+
+
+#### Insights
+Average Transaction Amounts: Range between $250 to $400 across all age groups.
+Gender Comparison: Both genders display similar spending patterns across age groups, with slight fluctuations where in some age groups males spend marginally more than females, and vice versa.
+Spending habits are consistent across age groups, suggesting uniform purchasing power and behavior from ages 18 to 65+.
+Minor gender differences in spending imply that gender-specific marketing might not be as critical as age-inclusive strategies. These findings support marketing initiatives that target a broad demographic spectrum without heavy emphasis on age or gender distinctions.
+
 
 
 
