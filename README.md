@@ -123,13 +123,22 @@ Track changes in total transaction amounts and purchase frequency over time, suc
 Understanding spending patterns over time can help in planning promotions and inventory management during peak seasons or slow periods.
 
 ### Data Visualization
-![image](https://github.com/user-attachments/assets/6d29caf3-3dd0-4a2d-8ff4-937c7b3c2c27)
-![image](https://github.com/user-attachments/assets/15b2e947-6de9-49ec-bb61-7e1214bba9ce)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6d29caf3-3dd0-4a2d-8ff4-937c7b3c2c27" alt="Total Transaction Amount by Season" width="45%">
+  <img src="https://github.com/user-attachments/assets/15b2e947-6de9-49ec-bb61-7e1214bba9ce" alt="Monthly Transaction Amount Over Time" width="45%">
+</p>
 
-#### Insights
-- **Transaction Amounts**: Average spending ranges from **$250 to $400** across all age groups.
-- **Gender Spending Patterns**: Similar spending patterns between genders, with marginal differences in some age groups.
-- **Consistency in Spending**: Uniform spending behavior observed from ages 18 to 65+, indicating consistent purchasing power.
+#### Insights 
+
+- **Seasonal Spending Trends**:
+  - **Spring** and **Summer** see the highest transaction amounts, suggesting increased consumer activity during warmer months.
+  - **Fall** shows the least spending, which could indicate a potential period for targeted promotions to boost sales.
+  - **Winter** sees moderate spending, likely influenced by holiday shopping.
+
+- **Monthly Spending Trends**:
+  - Spending peaks in May and June, aligning with typical vacation planning and summer activities.
+  - A sharp decline in transaction amounts is observed in September, marking the end of summer and possibly reflecting a return to school or work routines.
+
 
 
 
