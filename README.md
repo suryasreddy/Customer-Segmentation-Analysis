@@ -62,13 +62,15 @@ Understand the distribution of customers based on gender and age groups.
 #### Why?
 This will help you identify which demographics are most represented in the customer base, enabling targeted marketing strategies.
 
-### Data Summary
+### Data Visualization
 
 | Gender | Count  | Percentage |
 |--------|--------|------------|
 | F      | 22,713 | 45.426%    |
 | M      | 22,240 | 44.480%    |
 | Other  | 5,047  | 10.094%    |
+
+<img src="(https://github.com/user-attachments/assets/745d33da-d02e-42b7-9394-0be879af4880)" width="600">
 
 #### Insights
 The customer base shows a nearly balanced distribution between male and female customers, indicating the need for marketing approaches that cater equally to both genders.
