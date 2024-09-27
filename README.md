@@ -102,8 +102,6 @@ This insight helps in refining product offerings and targeted campaigns based on
 ### Data Visualization
 ![image](https://github.com/user-attachments/assets/24d44bbd-1fe5-404b-9fb9-9c06d166c73a)
 
-<img src="(https://github.com/user-attachments/assets/24d44bbd-1fe5-404b-9fb9-9c06d166c73a)" width="600">
-
 
 #### Insights
 Average Transaction Amounts: Range between $250 to $400 across all age groups.
