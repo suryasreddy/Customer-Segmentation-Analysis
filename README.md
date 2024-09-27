@@ -139,6 +139,39 @@ Understanding spending patterns over time can help in planning promotions and in
   - Spending peaks in May and June, aligning with typical vacation planning and summer activities.
   - A sharp decline in transaction amounts is observed in September, marking the end of summer and possibly reflecting a return to school or work routines.
 
+ ### 5. What are the characteristics of high-value vs. low-value customers?
+
+#### Objective
+Segment customers into groups based on their total transaction amounts (e.g., high spenders, low spenders) and analyze their demographics, purchasing behaviors, and product preferences.
+#### Why?
+Identifying high-value customers allows the business to focus on retention strategies, while low-value customer segments may benefit from upselling or cross-selling strategies.
+
+### Data Visualization
+![image](https://github.com/user-attachments/assets/76808883-d335-47f5-b790-a82fb975c403)
+![image](https://github.com/user-attachments/assets/a71bd552-6c85-4238-9f1d-27c88de40bc7)
+![image](https://github.com/user-attachments/assets/7ddee729-d781-4b97-8bb6-cb53f7139af7)
+
+<p align="center">
+  
+  <img src="https://github.com/user-attachments/assets/15b2e947-6de9-49ec-bb61-7e1214bba9ce" alt="Monthly Transaction Amount Over Time" width="45%">
+</p>
+
+#### 
+
+- **Transaction Amount Distribution**:
+  - High-value customers show a wide range of transaction amounts, indicating variability in their spending patterns.
+  - Low-value customers have significantly lower transaction amounts, consistently across the board.
+  - Medium spenders display moderate spending with less variability than high spenders.
+
+- **Gender Distribution by Customer Segment**:
+  - High-value and medium-value segments show a balanced gender distribution, with both genders nearly equally represented.
+  - Low-value segments also exhibit a balanced gender distribution, suggesting uniformity across spending segments in terms of gender.
+
+- **Product Category Preferences by Customer Segment**:
+  - High spenders predominantly purchase in **Electronics** and **Travel**, indicating preferences for higher-value transactions.
+  - Medium spenders show significant activity across **Clothing**, **Market**, and **Restaurant**, suggesting diverse interests.
+  - Low spenders are most active in **Market** purchases, potentially indicating necessity-driven buying behavior.
+
 
 
 
