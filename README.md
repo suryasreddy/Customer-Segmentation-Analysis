@@ -69,8 +69,7 @@ This will help you identify which demographics are most represented in the custo
 | F      | 22,713 | 45.426%    |
 | M      | 22,240 | 44.480%    |
 | Other  | 5,047  | 10.094%    |
-![image](https://github.com/user-attachments/assets/1f5424b0-a104-4fd4-8b39-cc87e91f4a96)
-<img src="(https://github.com/user-attachments/assets/1f5424b0-a104-4fd4-8b39-cc87e91f4a96)" width="600">
+<img src="https://github.com/user-attachments/assets/1f5424b0-a104-4fd4-8b39-cc87e91f4a96" width="600">
 
 #### Insights
 The customer base shows a nearly balanced distribution between male and female customers, indicating the need for marketing approaches that cater equally to both genders.
