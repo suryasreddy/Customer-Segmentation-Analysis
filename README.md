@@ -82,7 +82,8 @@ Analyze the average transaction amount across different age groups and between m
 This will reveal which demographic segments spend more on average, helping in the development of customer-specific promotions or incentives.
 
 ### Data Visualization
-![image](https://github.com/user-attachments/assets/f8ba5f86-8764-49f5-bf3e-fd4051c2f96f)
+<img src="https://github.com/user-attachments/assets/f8ba5f86-8764-49f5-bf3e-fd4051c2f96f" width="300">
+
 
 #### Insights
 Average Transaction Amounts: Range between $250 to $400 across all age groups.
