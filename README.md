@@ -73,3 +73,23 @@ This will help you identify which demographics are most represented in the custo
 #### Insights
 The customer base shows a nearly balanced distribution between male and female customers, indicating the need for marketing approaches that cater equally to both genders.
 A significant portion of the customer base identifies as 'Other', suggesting the importance of including non-binary or gender-neutral marketing strategies to appeal to this growing demographic segment.
+
+### 2. How do spending habits vary by age group and gender?
+
+#### Objective
+Analyze the average transaction amount across different age groups and between males and females.
+#### Why?
+This will reveal which demographic segments spend more on average, helping in the development of customer-specific promotions or incentives.
+
+### Data Visualization
+![image](https://github.com/user-attachments/assets/f8ba5f86-8764-49f5-bf3e-fd4051c2f96f)
+
+#### Insights
+Average Transaction Amounts: Range between $250 to $400 across all age groups.
+Gender Comparison: Both genders display similar spending patterns across age groups, with slight fluctuations where in some age groups males spend marginally more than females, and vice versa.
+Spending habits are consistent across age groups, suggesting uniform purchasing power and behavior from ages 18 to 65+.
+Minor gender differences in spending imply that gender-specific marketing might not be as critical as age-inclusive strategies. These findings support marketing initiatives that target a broad demographic spectrum without heavy emphasis on age or gender distinctions.
+
+
+
+
