@@ -182,23 +182,20 @@ Perform correlation analysis to explore whether age influences spending or if ce
 These correlations provide deeper insights into what drives customer spending and can inform pricing strategies and product recommendations.
 
 ### Data Visualization
-![image](https://github.com/user-attachments/assets/85b7e3ae-bdf6-479d-ab29-09695a72d854)
-![image](https://github.com/user-attachments/assets/e3eb811e-fd7c-4601-90d1-117625b8f9e4)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/85b7e3ae-bdf6-479d-ab29-09695a72d854" alt="Correlation between Age and Spending" width="49%">
+  <img src="https://github.com/user-attachments/assets/e3eb811e-fd7c-4601-90d1-117625b8f9e4" alt="Average Transaction Amount by Product Category" width="49%">
+</p>
 
-#### 
+### Insights
 
-- **Transaction Amount Distribution**:
-  - High-value customers show a wide range of transaction amounts, indicating variability in their spending patterns.
-  - Low-value customers have significantly lower transaction amounts, consistently across the board.
-  - Medium spenders display moderate spending with less variability than high spenders.
+- **Correlation between Age and Spending**:
+  - The scatter plot shows a dense clustering of transaction amounts across all ages without a clear trend of increasing or decreasing, indicating a weak or no correlation between age and total transaction amount.
+  - This suggests that customer age might not be a significant predictor of spending levels in this dataset.
 
-- **Gender Distribution by Customer Segment**:
-  - High-value and medium-value segments show a balanced gender distribution, with both genders nearly equally represented.
-  - Low-value segments also exhibit a balanced gender distribution, suggesting uniformity across spending segments in terms of gender.
-
-- **Product Category Preferences by Customer Segment**:
-  - High spenders predominantly purchase in **Electronics** and **Travel**, indicating preferences for higher-value transactions.
-  - Medium spenders show significant activity across **Clothing**, **Market**, and **Restaurant**, suggesting diverse interests.
-  - Low spenders are most active in **Market** purchases, potentially indicating necessity-driven buying behavior.
+- **Average Transaction Amount by Product Category**:
+  - **Travel** category shows significantly higher average transaction amounts compared to other categories, indicating high-value transactions typical for this sector.
+  - **Electronics** and **Restaurant** categories also exhibit higher average transaction amounts, likely reflecting higher-priced items and services.
+  - **Market** and **Clothing** show moderate spending, whereas **Cosmetic** is relatively lower, which might reflect frequent, but lower-value purchases.
 
 
