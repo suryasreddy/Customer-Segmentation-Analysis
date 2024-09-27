@@ -87,10 +87,9 @@ This will reveal which demographic segments spend more on average, helping in th
 
 
 #### Insights
-Average Transaction Amounts: Range between $250 to $400 across all age groups.
-Gender Comparison: Both genders display similar spending patterns across age groups, with slight fluctuations where in some age groups males spend marginally more than females, and vice versa.
-Spending habits are consistent across age groups, suggesting uniform purchasing power and behavior from ages 18 to 65+.
-Minor gender differences in spending imply that gender-specific marketing might not be as critical as age-inclusive strategies. These findings support marketing initiatives that target a broad demographic spectrum without heavy emphasis on age or gender distinctions.
+- **Transaction Amounts**: Average spending ranges from **$250 to $400** across all age groups.
+- **Gender Spending Patterns**: Similar spending patterns between genders, with marginal differences in some age groups.
+- **Consistency in Spending**: Uniform spending behavior observed from ages 18 to 65+, indicating consistent purchasing power.
 
 ### 3. Which product categories are the most popular, and how do they vary by customer demographics?
 
