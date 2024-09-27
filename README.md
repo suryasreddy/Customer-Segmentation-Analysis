@@ -55,3 +55,21 @@ The objective of analyzing these fields is to segment customers based on both de
 
 ## Data Analysis
 
+### 1. What is the demographic breakdown of customers by gender and age?
+
+#### Objective
+Understand the distribution of customers based on gender and age groups.
+#### Why?
+This will help you identify which demographics are most represented in the customer base, enabling targeted marketing strategies.
+
+### Data Summary
+
+| Gender | Count  | Percentage |
+|--------|--------|------------|
+| F      | 22,713 | 45.426%    |
+| M      | 22,240 | 44.480%    |
+| Other  | 5,047  | 10.094%    |
+
+#### Insights
+The customer base shows a nearly balanced distribution between male and female customers, indicating the need for marketing approaches that cater equally to both genders.
+A significant portion of the customer base identifies as 'Other', suggesting the importance of including non-binary or gender-neutral marketing strategies to appeal to this growing demographic segment.
