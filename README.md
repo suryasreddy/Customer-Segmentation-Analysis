@@ -60,7 +60,7 @@ The objective of analyzing these fields is to segment customers based on both de
 #### Objective
 Understand the distribution of customers based on gender and age groups.
 #### Why?
-This will help you identify which demographics are most represented in the customer base, enabling targeted marketing strategies.
+This will help us identify which demographics are most represented in the customer base, enabling targeted marketing strategies.
 
 ### Data Visualization
 
@@ -115,16 +115,21 @@ This insight helps in refining product offerings and targeted campaigns based on
   - Younger groups (18-25, 26-35) show greater activity in the **Restaurant** and **Travel** categories, likely reflecting different lifestyle preferences and disposable income levels.
   - The **65+** age group displays considerable activity in the **Market** category, suggesting a focus on essential goods.
 
-#### Marketing Strategy Recommendations
+### 4. How does customer spending vary over time (monthly, weekly, or seasonally)?
 
-- **Targeted Marketing**:
-  - Focus on gender-specific marketing strategies in **Electronics** for males and **Clothing** and **Cosmetics** for females, with age-adapted messaging.
-  
-- **Product and Service Adjustments**:
-  - Consider enhancing **Travel** and **Restaurant** services to attract younger consumers, potentially integrating more technology to appeal to a tech-savvy audience.
-  - For the **65+** demographic, ensure that marketing and product offerings are accessible and relevant, especially in essential product categories like **Market**.
+#### Objective
+Track changes in total transaction amounts and purchase frequency over time, such as seasonal trends or differences by day of the week.
+#### Why?
+Understanding spending patterns over time can help in planning promotions and inventory management during peak seasons or slow periods.
 
+### Data Visualization
+![image](https://github.com/user-attachments/assets/6d29caf3-3dd0-4a2d-8ff4-937c7b3c2c27)
+![image](https://github.com/user-attachments/assets/15b2e947-6de9-49ec-bb61-7e1214bba9ce)
 
+#### Insights
+- **Transaction Amounts**: Average spending ranges from **$250 to $400** across all age groups.
+- **Gender Spending Patterns**: Similar spending patterns between genders, with marginal differences in some age groups.
+- **Consistency in Spending**: Uniform spending behavior observed from ages 18 to 65+, indicating consistent purchasing power.
 
 
 
