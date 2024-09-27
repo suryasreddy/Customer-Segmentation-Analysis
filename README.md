@@ -104,10 +104,27 @@ This insight helps in refining product offerings and targeted campaigns based on
 
 
 #### Insights
-Average Transaction Amounts: Range between $250 to $400 across all age groups.
-Gender Comparison: Both genders display similar spending patterns across age groups, with slight fluctuations where in some age groups males spend marginally more than females, and vice versa.
-Spending habits are consistent across age groups, suggesting uniform purchasing power and behavior from ages 18 to 65+.
-Minor gender differences in spending imply that gender-specific marketing might not be as critical as age-inclusive strategies. These findings support marketing initiatives that target a broad demographic spectrum without heavy emphasis on age or gender distinctions.
+- **Category Popularity Across Age Groups**:
+  - **Electronics** and **Market** categories show high transaction numbers consistently across all age groups, indicating a universal appeal.
+  - **Travel** and **Restaurant** categories are less frequented, particularly by the older demographics (65+), which may reflect lifestyle or accessibility differences.
+
+- **Gender Differences**:
+  - Males predominantly engage more in transactions within the **Electronics** category across all age groups.
+  - Females show a higher number of transactions in the **Clothing** and **Cosmetics** categories, especially within the 18-55 age groups.
+
+- **Age Group Variations**:
+  - Younger groups (18-25, 26-35) show greater activity in the **Restaurant** and **Travel** categories, likely reflecting different lifestyle preferences and disposable income levels.
+  - The **65+** age group displays considerable activity in the **Market** category, suggesting a focus on essential goods.
+
+#### Marketing Strategy Recommendations
+
+- **Targeted Marketing**:
+  - Focus on gender-specific marketing strategies in **Electronics** for males and **Clothing** and **Cosmetics** for females, with age-adapted messaging.
+  
+- **Product and Service Adjustments**:
+  - Consider enhancing **Travel** and **Restaurant** services to attract younger consumers, potentially integrating more technology to appeal to a tech-savvy audience.
+  - For the **65+** demographic, ensure that marketing and product offerings are accessible and relevant, especially in essential product categories like **Market**.
+
 
 
 
