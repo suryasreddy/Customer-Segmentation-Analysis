@@ -174,6 +174,31 @@ Identifying high-value customers allows the business to focus on retention strat
   - Medium spenders show significant activity across **Clothing**, **Market**, and **Restaurant**, suggesting diverse interests.
   - Low spenders are most active in **Market** purchases, potentially indicating necessity-driven buying behavior.
 
+ ### 6. Is there a correlation between customer age and spending, or between product categories and transaction amounts?
 
+#### Objective
+Perform correlation analysis to explore whether age influences spending or if certain product categories lead to higher transaction amounts.
+#### Why?
+These correlations provide deeper insights into what drives customer spending and can inform pricing strategies and product recommendations.
+
+### Data Visualization
+![image](https://github.com/user-attachments/assets/85b7e3ae-bdf6-479d-ab29-09695a72d854)
+![image](https://github.com/user-attachments/assets/e3eb811e-fd7c-4601-90d1-117625b8f9e4)
+
+#### 
+
+- **Transaction Amount Distribution**:
+  - High-value customers show a wide range of transaction amounts, indicating variability in their spending patterns.
+  - Low-value customers have significantly lower transaction amounts, consistently across the board.
+  - Medium spenders display moderate spending with less variability than high spenders.
+
+- **Gender Distribution by Customer Segment**:
+  - High-value and medium-value segments show a balanced gender distribution, with both genders nearly equally represented.
+  - Low-value segments also exhibit a balanced gender distribution, suggesting uniformity across spending segments in terms of gender.
+
+- **Product Category Preferences by Customer Segment**:
+  - High spenders predominantly purchase in **Electronics** and **Travel**, indicating preferences for higher-value transactions.
+  - Medium spenders show significant activity across **Clothing**, **Market**, and **Restaurant**, suggesting diverse interests.
+  - Low spenders are most active in **Market** purchases, potentially indicating necessity-driven buying behavior.
 
 
